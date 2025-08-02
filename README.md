@@ -30,9 +30,6 @@
 </div>
 
 
-
-
-
 ---
 
 > [!IMPORTANT]
@@ -44,7 +41,15 @@
 <details>
     <summary>公告</summary>
 
+## Coooredump
 
+- [x] 部署 CloudFlare Application
+- [x] 配置 KV 数据库
+- [ ] 配置存储渠道：由于 R2 Storage Bucket 开通后，存储超过 10GB 需要付费，所以未开通（本项目 OSS 暂停维护）
+
+前台 OSS：https://cloudflare-img-bed-gkm.pages.dev/
+后台：https://cloudflare-img-bed-gkm.pages.dev/dashboard/
+账号密码：同 github
 
 ## 置顶
 
